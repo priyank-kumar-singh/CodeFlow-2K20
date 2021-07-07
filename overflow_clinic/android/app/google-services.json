@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935026370706",
+    "firebase_url": "https://overflow-clinic.firebaseio.com",
+    "project_id": "overflow-clinic",
+    "storage_bucket": "overflow-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935026370706:android:c6b6bf92f0ea3bfec4de4b",
+        "android_client_info": {
+          "package_name": "com.hackoverflow.overflow_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935026370706-balaoat7m7blb0p4nkna7bkir19h6hle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsI_PeCxCVXDEgPMeZyovSkHXe2VkLQFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935026370706-balaoat7m7blb0p4nkna7bkir19h6hle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
